@@ -1,0 +1,3 @@
+[submodule "javascript-exercises"]
+	path = javascript-exercises
+	url = git@github.com:patgratt/javascript-exercises.git
